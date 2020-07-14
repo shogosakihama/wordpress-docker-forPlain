@@ -1,5 +1,5 @@
 module.exports = {
-  purge: [],
+  purge: [/Users/shogo_sakihama/ghq/github.com/shogosakihama/wordpress-docker-forPlain/wordpress/wp-content/themes/wp-original-theme/index.php],
   theme: {
     screens: {
       'sm': '640px',
